@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 15 13:15:54 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0175-2bf9-378b-0000063a9868 
+on database directory C:\Users\berna\git\Phonebook\BK phonebook fx\sampleDB with class loader sun.misc.Launcher$AppClassLoader@78308db1 
+Loaded from file:/C:/Users/berna/git/Phonebook/BK%20phonebook%20fx/Phonebook.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\berna\git\Phonebook\BK phonebook fx
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
